@@ -1,0 +1,67 @@
+.panel-title{
+  text-align: center;
+}
+
+.panel {
+  background-color: #e0c860;
+}
+.panel-hover:hover {
+    background-color: #f2e8bf;
+}
+#javaScript-definition {
+  display: none;
+}
+#operators-definition {
+  display: none;
+}
+#variables-definition {
+  display: none;
+}
+#variableNamingConventions-definition {
+  display: none;
+}
+#functions-definition {
+  display: none;
+}
+#methods-definition {
+  display: none;
+}
+#arguments-definition {
+  display: none;
+}
+#parameters-definition {
+  display: none;
+}
+#return-definition {
+  display: none;
+}
+#chainingMethods-definition {
+  display: none;
+}
+#strings-definition {
+  display: none;
+}
+#booleans-definition {
+  display: none;
+}
+#undefined-definition {
+  display: none;
+}
+#naN-definition {
+  display: none;
+}
+#escape-definition {
+  display: none;
+}
+#alert-definition {
+  display: none;
+}
+#comments-definition {
+  display: none;
+}
+#jQuery-definition {
+  display: none;
+}
+#attributes-definition {
+  display: none;
+}
